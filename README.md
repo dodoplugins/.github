@@ -1,2 +1,1 @@
-# .github
-Special repo containing organization readme file
+# Plugin integrations for DodoIS
